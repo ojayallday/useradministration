@@ -1,4 +1,4 @@
-package appuser;
+package com.example.demo.appuser;
 
 import jakarta.persistence.*;
 import lombok.EqualsAndHashCode;
